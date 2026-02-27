@@ -32,7 +32,7 @@ msgstr "- Bu bölgeyi savunmak <0>{0}</0> ceza alacak."
 msgid "- Development income is reduced by 50%:<0>{0}</0>."
 msgstr "- Gelişme geliri %50 azaltıldı:<0>{0}</0>."
 
-#. placeholdBölgeer {0}: myCountry?.name
+#. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
 msgid "{0} & allies"
 msgstr "{0} ve müttefikleri"
