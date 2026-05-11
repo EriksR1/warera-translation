@@ -1564,6 +1564,10 @@ msgstr "Aprovado"
 msgid "Arcane Boots"
 msgstr "Botas Arcanas"
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:216
+msgid "Are you sure you want to consume pill?"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
 msgstr "Tem certeza que quer rebaixar este comandante?"
@@ -1584,7 +1588,7 @@ msgstr "Tem certeza que quer sair do congresso?"
 msgid "Are you sure you want to leave the government?"
 msgstr "Tem certeza que quer sair do governo?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:131
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
 msgstr "Tem a certeza que quer submeter esta licitação?"
 
@@ -1652,7 +1656,7 @@ msgstr "Artigos de <0/>"
 msgid "At least you tried"
 msgstr "Pelo menos você tentou"
 
-#: src/components/_military/battle/BattleSystem.tsx:611
+#: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "No final do timer <0>{actualTickPoints}</0> serão atribuídos ao lado com mais dano."
 
@@ -1700,6 +1704,10 @@ msgstr "Aprovação automática"
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Gera automaticamente <0>Pontos de Produção</0> ao longo do tempo, sem precisar trabalhar."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:269
+msgid "Autobuy when empty"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1856,7 +1864,7 @@ msgstr "Tornar-se candidato"
 msgid "Better than nothing, right?"
 msgstr "Melhor que nada, né?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
 msgid "Bid"
 msgstr "Lance"
 
@@ -1890,12 +1898,12 @@ msgstr "Botas"
 msgid "Bounty"
 msgstr "Recompensa(s)"
 
-#: src/components/_military/battle/BattleSystem.tsx:846
-#: src/components/_military/battle/BattleSystem.tsx:856
+#: src/components/_military/battle/BattleSystem.tsx:850
+#: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
 msgstr "Tempo de recarga de recompensa"
 
-#: src/components/_military/battle/BattleSystem.tsx:832
+#: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
 msgstr "A recompensa estará disponível em"
 
@@ -2234,7 +2242,7 @@ msgstr "Cidadania"
 msgid "Citizenship Applications"
 msgstr "Solicitações de cidadania"
 
-#: src/components/_military/battle/BattleSystem.tsx:341
+#: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
 msgstr "Guerra Civil"
 
@@ -2271,6 +2279,10 @@ msgstr "Clique no chat do seu país para conversar com outros cidadãos."
 #: src/components/_other/tour/tuto.frontConfig.tsx:67
 msgid "Click to apply and start earning money right away."
 msgstr "Clique para se candidatar e comece a ganhar dinheiro imediatamente."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:166
+msgid "Click to consume."
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
@@ -2477,6 +2489,10 @@ msgstr "Conquistador"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:69
 msgid "Consider giving it to your local moderator"
 msgstr "Considere dar para seu moderador local"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:163
+msgid "Consume items"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -2690,11 +2706,11 @@ msgstr "Besta"
 msgid "Current Military Unit"
 msgstr "Unidade Militar Atual"
 
-#: src/components/_military/battle/BattleSystem.tsx:630
+#: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
 msgstr "Tick atual:"
 
-#: src/components/_military/battle/BattleSystem.tsx:620
+#: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
 msgstr "Total atual:"
 
@@ -2731,7 +2747,7 @@ msgid "Damage ranking"
 msgstr "Ranking de dano"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:161
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Dano"
@@ -3204,7 +3220,7 @@ msgstr "Custo de promulgação"
 msgid "Enchanted Trousers"
 msgstr "Calças Encantadas"
 
-#: src/components/_military/battle/BattleSystem.tsx:739
+#: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
 msgstr "Terminada"
 
@@ -3267,8 +3283,8 @@ msgstr "Erro"
 msgid "Estimated benefit per"
 msgstr "Benefício estimado por"
 
-#: src/components/_military/battle/BattleSystem.tsx:462
-#: src/components/_military/battle/BattleSystem.tsx:499
+#: src/components/_military/battle/BattleSystem.tsx:467
+#: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
 msgstr "Tempo mínimo estimado para este lado vencer a ronda atual caso vença todos os ticks."
 
@@ -3429,7 +3445,7 @@ msgstr "Calças de Fazendeiro"
 msgid "Favorites"
 msgstr "Favoritos"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr "Caução"
@@ -3447,7 +3463,7 @@ msgstr "Bônus de fidelidade"
 msgid "Fidelity bonus:"
 msgstr "Bônus de fidelidade:"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:152
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
 msgid "Fight for <0/> in <1/>"
 msgstr "Luta por <0/> em <1/>"
 
@@ -3706,7 +3722,7 @@ msgstr "Governo"
 msgid "Government Member"
 msgstr "Membro do Governo"
 
-#: src/components/_military/battle/BattleSystem.tsx:806
+#: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
 msgstr "Penalidade do governo"
 
@@ -3798,7 +3814,7 @@ msgstr "Tanque Sombrio"
 msgid "Ground"
 msgstr "Terreno"
 
-#: src/components/_military/battle/BattleSystem.tsx:669
+#: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
 msgstr "terreno por tick"
 
@@ -3873,7 +3889,7 @@ msgid "Hit <0>{count}</0> times in battles"
 msgstr "Golpear <0>{count}</0> vezes em batalhas"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
-#: src/components/_military/battle/BattleSystem.tsx:808
+#: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "Atacar pelo seu próprio país enquanto estiver no governo resulta em {0}% de eficiência de recompensa."
 
@@ -4652,7 +4668,7 @@ msgstr "Unidades militares"
 msgid "Military Units"
 msgstr "Unidades Militares"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:286
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
 msgid "Min reached"
 msgstr "Mín. alcançado"
 
@@ -4852,7 +4868,7 @@ msgstr "Mítico?! Sua conta é abençoada"
 msgid "Name"
 msgstr "Nome"
 
-#: src/components/_military/battle/BattleSystem.tsx:794
+#: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
 msgstr "Recompensa nacional"
 
@@ -4990,7 +5006,7 @@ msgstr "A próxima vai ser um tanque"
 msgid "Next reward"
 msgstr "Próxima Recompensa"
 
-#: src/components/_military/battle/BattleSystem.tsx:606
+#: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
 msgstr "Próximo tick"
 
@@ -5483,7 +5499,7 @@ msgstr "Cole um link para o seu artigo de campanha, ou deixe vazio."
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Pagamento bem-sucedido! Obrigado por apoiar o jogo <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:179
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 msgid "Payout"
 msgstr "Pagamento"
 
@@ -5665,7 +5681,7 @@ msgstr "Privacidade"
 msgid "Private"
 msgstr "Soldado"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:205
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
 msgid "Pro Only"
 msgstr "Apenas Pro"
 
@@ -5826,7 +5842,7 @@ msgstr "Desmontar rápido"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr ""
+msgstr "Equipe os melhores itens de qualquer categoria com apenas um clique"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
@@ -5850,7 +5866,7 @@ msgstr "Rankings"
 msgid "Ranks"
 msgstr "Ranks"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
 msgid "Rate"
 msgstr "Taxa"
 
@@ -6156,7 +6172,7 @@ msgstr "A reputação diminui 20% até chegar a 0 todas as semanas (mínimo de 1
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:26
 msgid "Reputation purchased!"
-msgstr ""
+msgstr "Reputação adquirida!"
 
 #: src/components/_user/user/UserDropdown.tsx:335
 msgid "Request Phone Verification"
@@ -6277,7 +6293,7 @@ msgstr "Ronda"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:214
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "Ronda {0}"
@@ -6304,8 +6320,8 @@ msgstr "Ronda prestes a terminar"
 msgid "Round ended"
 msgstr "Ronda terminada"
 
-#: src/components/_military/battle/BattleSystem.tsx:460
-#: src/components/_military/battle/BattleSystem.tsx:497
+#: src/components/_military/battle/BattleSystem.tsx:465
+#: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
 msgstr "ETA da ronda"
 
@@ -6593,7 +6609,7 @@ msgid "Shop"
 msgstr "Loja"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:270
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
 msgid "Show all {0} bids"
 msgstr "Mostrar todas as {0} licitações"
 
@@ -7061,11 +7077,11 @@ msgstr "O universo te deve algo grande"
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr "É estritamente proibido o uso de bots, scripts ou qualquer forma de automatização para obter vantagem sobre outros jogadores. Isto inclui, entre outros, web scraping e a criação de scripts que contornem a funcionalidade ou as limitações do jogo."
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
 msgstr "Esta ação vai submeter a licitação da sua UM para este contrato."
 
-#: src/components/_military/battle/BattleSystem.tsx:795
+#: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
 msgstr "Esta recompensa está reservada para cidadãos."
 
@@ -7121,6 +7137,10 @@ msgstr "Apenas esta ronda"
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Este utilizador não faz parte de nenhum grupo familiar"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:217
+msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
@@ -7271,7 +7291,7 @@ msgstr "Top ofertas do mês"
 msgid "Top of the hill"
 msgstr "Topo da colina"
 
-#: src/components/_military/battle/BattleSystem.tsx:660
+#: src/components/_military/battle/BattleSystem.tsx:664
 msgid "total"
 msgstr "total"
 
@@ -8437,7 +8457,7 @@ msgstr "Nome da sua unidade militar"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr "A tua MU tem <0/> de reputação e não pode licitar em contratos de mercenários. Paga para recuperar reputação (uma vez por dia)."
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "Para poder licitar, a tua MU tem de ter dinheiro suficiente para cobrir a caução. O pagamento só é descontado se ganhar e é devolvido após a conclusão do contrato."
 

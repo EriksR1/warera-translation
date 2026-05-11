@@ -1564,6 +1564,10 @@ msgstr "Прихваћено"
 msgid "Arcane Boots"
 msgstr "Мистериозне чизме"
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:216
+msgid "Are you sure you want to consume pill?"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
 msgstr "Да ли сте сигурни да желите да склоните командира са позиције?"
@@ -1584,7 +1588,7 @@ msgstr "Да ли сигурно желите да напустите конгр
 msgid "Are you sure you want to leave the government?"
 msgstr "Да ли сигурно желите да напустите владу?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:131
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
 msgstr "Да ли сте сигурни да желите да поставите ову понуду?"
 
@@ -1652,7 +1656,7 @@ msgstr "Чланци од <0/>"
 msgid "At least you tried"
 msgstr "Барем си покушао"
 
-#: src/components/_military/battle/BattleSystem.tsx:611
+#: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "По истеку тајмера, <0>{actualTickPoints}</0> ће бити додељено страни са највише нанесене штете."
 
@@ -1700,6 +1704,10 @@ msgstr "Аутоматско одобравање"
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Аутоматски генерише <0>поене производње</0> током времена, без потребе за радом."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:269
+msgid "Autobuy when empty"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1856,7 +1864,7 @@ msgstr "Постани кандидат"
 msgid "Better than nothing, right?"
 msgstr "Боље ишта него ништа, зар не?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
 msgid "Bid"
 msgstr "Понуда"
 
@@ -1890,12 +1898,12 @@ msgstr "Чизме"
 msgid "Bounty"
 msgstr "Награда"
 
-#: src/components/_military/battle/BattleSystem.tsx:846
-#: src/components/_military/battle/BattleSystem.tsx:856
+#: src/components/_military/battle/BattleSystem.tsx:850
+#: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
 msgstr "Период чекања за награду"
 
-#: src/components/_military/battle/BattleSystem.tsx:832
+#: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
 msgstr "Награда ће бити доступна за"
 
@@ -2234,7 +2242,7 @@ msgstr "Држављанство"
 msgid "Citizenship Applications"
 msgstr "Пријаве за држављанство"
 
-#: src/components/_military/battle/BattleSystem.tsx:341
+#: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
 msgstr "Грађански рат"
 
@@ -2271,6 +2279,10 @@ msgstr "Кликни на разговор твоје земље да ћаска
 #: src/components/_other/tour/tuto.frontConfig.tsx:67
 msgid "Click to apply and start earning money right away."
 msgstr "Кликни да се пријавиш и почнеш да зарађујеш новац одмах."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:166
+msgid "Click to consume."
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
@@ -2477,6 +2489,10 @@ msgstr "Освајач"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:69
 msgid "Consider giving it to your local moderator"
 msgstr "Размисли да то даш свом локалном модератору"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:163
+msgid "Consume items"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -2690,11 +2706,11 @@ msgstr "Самострел"
 msgid "Current Military Unit"
 msgstr "Тренутна војна јединица"
 
-#: src/components/_military/battle/BattleSystem.tsx:630
+#: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
 msgstr "Тренутни тик:"
 
-#: src/components/_military/battle/BattleSystem.tsx:620
+#: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
 msgstr "Укупно тренутно:"
 
@@ -2731,7 +2747,7 @@ msgid "Damage ranking"
 msgstr "Ранг листа штете"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:161
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Штета"
@@ -3204,7 +3220,7 @@ msgstr "Цена усвајања"
 msgid "Enchanted Trousers"
 msgstr "Зачаране панталоне"
 
-#: src/components/_military/battle/BattleSystem.tsx:739
+#: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
 msgstr "Завршено"
 
@@ -3267,8 +3283,8 @@ msgstr "Грешка"
 msgid "Estimated benefit per"
 msgstr "Процењена корист по"
 
-#: src/components/_military/battle/BattleSystem.tsx:462
-#: src/components/_military/battle/BattleSystem.tsx:499
+#: src/components/_military/battle/BattleSystem.tsx:467
+#: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
 msgstr "Процењено минимално време потребно овој страни да освоји тренутну рунду ако се освоје сви тикови."
 
@@ -3429,7 +3445,7 @@ msgstr "Пољопривредничке панталоне"
 msgid "Favorites"
 msgstr "Омиљено"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr "Такса"
@@ -3447,7 +3463,7 @@ msgstr "Бонус лојалности"
 msgid "Fidelity bonus:"
 msgstr "Бонус лојалности:"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:152
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
 msgid "Fight for <0/> in <1/>"
 msgstr "Бори се за <0/> у <1/>"
 
@@ -3706,7 +3722,7 @@ msgstr "Влада"
 msgid "Government Member"
 msgstr "Члан владе"
 
-#: src/components/_military/battle/BattleSystem.tsx:806
+#: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
 msgstr "Пенал владе"
 
@@ -3798,7 +3814,7 @@ msgstr "Гримдарк тенк"
 msgid "Ground"
 msgstr "Земља"
 
-#: src/components/_military/battle/BattleSystem.tsx:669
+#: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
 msgstr "земље по тику"
 
@@ -3873,7 +3889,7 @@ msgid "Hit <0>{count}</0> times in battles"
 msgstr "Удари <0>{count}</0> пута у биткама"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
-#: src/components/_military/battle/BattleSystem.tsx:808
+#: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "Ударање за своју земљу док си у влади даје {0}% ефикасности награде."
 
@@ -4652,7 +4668,7 @@ msgstr "Војне јединице"
 msgid "Military Units"
 msgstr "Војне јединице"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:286
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
 msgid "Min reached"
 msgstr "Минимум достигнут"
 
@@ -4852,7 +4868,7 @@ msgstr "Митски?! Твој налог је благословен"
 msgid "Name"
 msgstr "Име"
 
-#: src/components/_military/battle/BattleSystem.tsx:794
+#: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
 msgstr "Државна награда"
 
@@ -4990,7 +5006,7 @@ msgstr "Следећи ће бити тенк"
 msgid "Next reward"
 msgstr "Следећа награда"
 
-#: src/components/_military/battle/BattleSystem.tsx:606
+#: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
 msgstr "Следећи тик"
 
@@ -5483,7 +5499,7 @@ msgstr "Налепи везу до чланка своје кампање или
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Плаћање успешно! Хвала на подршци игри <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:179
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 msgid "Payout"
 msgstr "Исплата"
 
@@ -5665,7 +5681,7 @@ msgstr "Приватност"
 msgid "Private"
 msgstr "Редов"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:205
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
 msgid "Pro Only"
 msgstr "Само про"
 
@@ -5850,7 +5866,7 @@ msgstr "Рангирања"
 msgid "Ranks"
 msgstr "Рангирања"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
 msgid "Rate"
 msgstr "Стопа"
 
@@ -6277,7 +6293,7 @@ msgstr "Рунда"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:214
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "Рунда {0}"
@@ -6304,8 +6320,8 @@ msgstr "Рунда се ускоро завршава"
 msgid "Round ended"
 msgstr "Рунда завршена"
 
-#: src/components/_military/battle/BattleSystem.tsx:460
-#: src/components/_military/battle/BattleSystem.tsx:497
+#: src/components/_military/battle/BattleSystem.tsx:465
+#: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
 msgstr "Процена краја рунде"
 
@@ -6593,7 +6609,7 @@ msgid "Shop"
 msgstr "Радња"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:270
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
 msgid "Show all {0} bids"
 msgstr "Прикажи свих {0} понуда"
 
@@ -7061,11 +7077,11 @@ msgstr "Универзум ти дугује нешто велико"
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr "Коришћење ботова, скрипти или било ког облика аутоматизације ради стицања предности над другим играчима је строго забрањено. Ово укључује, али није ограничено на, веб скрејповање и прављење скрипти које заобилазе предвиђену функционалност или ограничења игре."
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
 msgstr "Ова радња ће послати понуду ваше ВЈ за овај уговор."
 
-#: src/components/_military/battle/BattleSystem.tsx:795
+#: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
 msgstr "Ова награда је резервисана само за држављане."
 
@@ -7121,6 +7137,10 @@ msgstr "Само ова рунда"
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Овај корисник није део ниједне породичне групе"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:217
+msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
@@ -7271,7 +7291,7 @@ msgstr "Највећи дародавци месеца"
 msgid "Top of the hill"
 msgstr "Врх брда"
 
-#: src/components/_military/battle/BattleSystem.tsx:660
+#: src/components/_military/battle/BattleSystem.tsx:664
 msgid "total"
 msgstr "укупно"
 
@@ -8437,7 +8457,7 @@ msgstr "Име твоје војне јединице"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "Ваша ВЈ мора имати довољно новца да покрије таксу прихватања за подношење понуде. Плаћање се одузима само ако победите и враћа се по завршетку уговора."
 
