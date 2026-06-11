@@ -176,7 +176,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Αν ο χρήστης κατέχει ήδη κάποια τεμάχια του σετ, η τιμή θα μειωθεί"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Μπορεί να καεί"
 
@@ -2238,7 +2238,7 @@ msgstr "Ακύρωση"
 msgid "Cancel as gov"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Ακύρωση οποτεδήποτε"
 
@@ -5269,7 +5269,7 @@ msgstr ""
 msgid "More"
 msgstr "Περισσότερα"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Περισσότερα premium χαρακτηριστικά έρχονται σύντομα!"
 
@@ -6158,7 +6158,7 @@ msgstr "Ξεκίνα καυγά!"
 msgid "Pill"
 msgstr "Χάπι"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Φύτεψε ένα δέντρο στο κέντρο δεδομένων"
 
@@ -7202,7 +7202,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "Λοχίας"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Ορισμός <0>περιγραφής</0>"
 
@@ -8269,11 +8269,6 @@ msgstr "Αποεπιλογή όλων"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Αφαίρεση χώρας ορκισμένου εχθρού"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Έως {0} σετ εξοπλισμού"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

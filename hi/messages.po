@@ -176,7 +176,7 @@ msgstr "* उपकरण विलय योजना में बहुत �
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*यदि उपयोगकर्ता के पास पहले से ही इस सेट के कुछ हिस्से हैं, तो कीमत कम कर दी जाएगी।"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*जल सकता है"
 
@@ -2238,7 +2238,7 @@ msgstr "रद्द करें"
 msgid "Cancel as gov"
 msgstr "सरकार के रूप में रद्द करें"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "कभी भी रद्द करें"
 
@@ -5269,7 +5269,7 @@ msgstr "मासिक:"
 msgid "More"
 msgstr "और"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "और प्रीमियम सुविधाएँ जल्द आ रही हैं!"
 
@@ -6158,7 +6158,7 @@ msgstr "युद्ध में शामिल हों!"
 msgid "Pill"
 msgstr "गोली"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "डेटा सेंटर में एक पेड़ लगाएँ"
 
@@ -7202,7 +7202,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "सार्जेंट"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "एक <0>विवरण</0> सेट करें"
 
@@ -8269,11 +8269,6 @@ msgstr "सभी चयन हटाएँ"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "शपथ लिए हुए शत्रु देश को हटाएँ"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "{0} तक उपकरण सेट"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

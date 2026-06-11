@@ -176,7 +176,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Jika pengguna sudah memiliki beberapa bagian dari set ini, harganya akan dikurangi"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Bisa terbakar"
 
@@ -2238,7 +2238,7 @@ msgstr "Batal"
 msgid "Cancel as gov"
 msgstr "Batalkan sebagai pemerintah"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Batal kapan saja"
 
@@ -5269,7 +5269,7 @@ msgstr "Bulanan:"
 msgid "More"
 msgstr "Lainnya"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Fitur premium lainnya akan segera hadir!"
 
@@ -6158,7 +6158,7 @@ msgstr "Cari gara-gara!"
 msgid "Pill"
 msgstr "Pil"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Tanam pohon di data center"
 
@@ -7202,7 +7202,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "Sergeant"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Atur <0>deskripsi</0>"
 
@@ -8269,11 +8269,6 @@ msgstr "Batal pilih semua"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Hapus negara musuh bebuyutan"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Hingga {0} set perlengkapan"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

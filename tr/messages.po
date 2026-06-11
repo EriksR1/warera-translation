@@ -176,7 +176,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Kullanıcı setin bazı parçalarına zaten sahipse, fiyat düşürülecektir"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Alev alabilir"
 
@@ -2238,7 +2238,7 @@ msgstr "İptal Et"
 msgid "Cancel as gov"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "İstediğin zaman iptal et"
 
@@ -5269,7 +5269,7 @@ msgstr "Aylık:"
 msgid "More"
 msgstr "Daha fazla"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Daha fazla premium özellik yakında!"
 
@@ -6158,7 +6158,7 @@ msgstr "Bir savaş seç!"
 msgid "Pill"
 msgstr "Hap"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Veri merkezine incir ağacı dik"
 
@@ -7202,7 +7202,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "Çavuş"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Bir <0>açıklama</0> yaz"
 
@@ -8269,11 +8269,6 @@ msgstr "Seçimi kaldır"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Baş düşmanın olan ülkeyi kaldır"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "{0} ekipman setine kadar"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

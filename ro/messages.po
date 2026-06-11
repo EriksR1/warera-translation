@@ -174,7 +174,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Dacă jucătorul deține deja piese ale setului, prețul va fi redus"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Posibil să ardă"
 
@@ -2236,7 +2236,7 @@ msgstr "Anulează"
 msgid "Cancel as gov"
 msgstr "Anulează ca guvern"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Anulează oricând"
 
@@ -5267,7 +5267,7 @@ msgstr "Lunar:"
 msgid "More"
 msgstr "Mai mult"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Mai multe funcții premium în curând!"
 
@@ -6156,7 +6156,7 @@ msgstr "Alege o luptă!"
 msgid "Pill"
 msgstr "Pastilă"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Plantează un copac în datacenter"
 
@@ -7200,7 +7200,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "Sergent"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Setează o <0>descriere</0>"
 
@@ -8267,11 +8267,6 @@ msgstr "Deselectează tot"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Elimină inamicul principal al țării"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Până la {0} seturi de echipament"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

@@ -176,7 +176,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*如果用戶已經擁有一些造型包中的造型，價格會減少"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*可能會燒起來"
 
@@ -2238,7 +2238,7 @@ msgstr "取消"
 msgid "Cancel as gov"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "可隨時取消"
 
@@ -5269,7 +5269,7 @@ msgstr ""
 msgid "More"
 msgstr "更多"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "更多高級訂閱功能即將推出！"
 
@@ -6158,7 +6158,7 @@ msgstr "選擇一個戰鬥！"
 msgid "Pill"
 msgstr "藥丸"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "在資料中心種一棵樹"
 
@@ -7202,7 +7202,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "中士"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "設置 <0>描述</0>"
 
@@ -8269,11 +8269,6 @@ msgstr "取消全選"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "清除宿敵國家"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "最多可擁有 {0} 個裝備集"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

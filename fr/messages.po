@@ -176,7 +176,7 @@ msgstr "* Un schéma de fusion d'engrenages consiste à acheter des objets avec 
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Si l'utilisateur possède déjà certaines pièces du set, le prix sera réduit"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Peut brûler"
 
@@ -2238,7 +2238,7 @@ msgstr "Annuler"
 msgid "Cancel as gov"
 msgstr "Annuler en tant que gouvernement"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Annuler à tout moment"
 
@@ -5269,7 +5269,7 @@ msgstr "Mensuel"
 msgid "More"
 msgstr "Plus"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Plus de fonctionnalités premium bientôt !"
 
@@ -6158,7 +6158,7 @@ msgstr "Choisis un combat !"
 msgid "Pill"
 msgstr "Pilule"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Planter un arbre dans le data center"
 
@@ -7202,7 +7202,7 @@ msgstr "Envoyez de l'argent dans un autre pays. Taxe papier en supplément : {0}
 msgid "Sergeant"
 msgstr "Sergent"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Définir une <0>description</0>"
 
@@ -8269,11 +8269,6 @@ msgstr "Tout désélectionner"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Supprimer l'ennemi principal du pays"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Jusqu'à {0} sets d'équipement"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

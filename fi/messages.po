@@ -177,7 +177,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Jos käyttäjä omistaa jo joitain setin osia, hinta alenee"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Voidaan polttaa"
 
@@ -2239,7 +2239,7 @@ msgstr "Peruuttaa"
 msgid "Cancel as gov"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Peruuta milloin tahansa"
 
@@ -5270,7 +5270,7 @@ msgstr "Kuukausittain:"
 msgid "More"
 msgstr "Lisää"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Lisää premium-ominaisuuksia tulossa pian!"
 
@@ -6159,7 +6159,7 @@ msgstr "Haastaa riitaa!"
 msgid "Pill"
 msgstr "Pilleri"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Istuta puu palvelinkeskukseen"
 
@@ -7203,7 +7203,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "Kersantti"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Aseta <0>kuvaus</0>"
 
@@ -8270,11 +8270,6 @@ msgstr "Poista kaikki valinnat"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Purkaa vannonut vihollismaa"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Jopa {0} laitesarjaa"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

@@ -176,7 +176,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Если у игрока уже есть какие-то предметы из набора, цена будет снижена"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Может сгореть"
 
@@ -2238,7 +2238,7 @@ msgstr "Отменить"
 msgid "Cancel as gov"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Можно отменить в любой момент"
 
@@ -5269,7 +5269,7 @@ msgstr ""
 msgid "More"
 msgstr "Больше"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Ожидайте больше премиумных приколюх!"
 
@@ -6158,7 +6158,7 @@ msgstr "Выбери бой!"
 msgid "Pill"
 msgstr "Таблетка"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Посадить дерево в дата-центре"
 
@@ -7202,7 +7202,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "Сержант"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "<0>Описание</0> в профиле"
 
@@ -8269,11 +8269,6 @@ msgstr "Отменить всё"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Выписать страну из заклятых врагов"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "До {0} наборов экипировки"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

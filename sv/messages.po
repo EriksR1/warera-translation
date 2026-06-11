@@ -176,7 +176,7 @@ msgstr "* Ett systematiskt materielupplägg innebär inköp av utrustning med my
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Priset reduceras om användaren redan äger delar av uppsättningen"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Kan brinna upp"
 
@@ -2238,7 +2238,7 @@ msgstr "Avbryt"
 msgid "Cancel as gov"
 msgstr "Avbryt som regering"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Säg upp när som helst"
 
@@ -5269,7 +5269,7 @@ msgstr "Månadsvis:"
 msgid "More"
 msgstr "Mer"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Fler premiumfunktioner kommer snart!"
 
@@ -6158,7 +6158,7 @@ msgstr "Välj en strid!"
 msgid "Pill"
 msgstr "Piller"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Plantera ett träd i datacentret"
 
@@ -7202,7 +7202,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "Sergeant"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Ange en <0>beskrivning</0>"
 
@@ -8269,11 +8269,6 @@ msgstr "Avmarkera alla"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Ta bort svuren fiende-status för landet"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Upp till {0} utrustningsuppsättningar"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

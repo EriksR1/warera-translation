@@ -176,7 +176,7 @@ msgstr "* A gear merging scheme consists of buying items with very low durabilit
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*If the user already owns some pieces of the set, the price will be reduced"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*May burn"
 
@@ -2238,7 +2238,7 @@ msgstr "Cancel"
 msgid "Cancel as gov"
 msgstr "Cancel as gov"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Cancel at any time"
 
@@ -5269,7 +5269,7 @@ msgstr "Monthly:"
 msgid "More"
 msgstr "More"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "More premium features coming soon!"
 
@@ -6158,7 +6158,7 @@ msgstr "Pick a fight!"
 msgid "Pill"
 msgstr "Pill"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Plant a tree in the data center"
 
@@ -7202,7 +7202,7 @@ msgstr "Send money to another country. Paper tax on top: {0}% within your allian
 msgid "Sergeant"
 msgstr "Sergeant"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Set a <0>description</0>"
 
@@ -8269,11 +8269,6 @@ msgstr "Unselect all"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Unset the sworn enemy country"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Up to {0} equipment sets"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

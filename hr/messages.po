@@ -176,7 +176,7 @@ msgstr "* Shema povezivanja opreme podrazumijeva kupnju škart predmeta za relat
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Ako korisnik već posjeduje neke dijelove kompleta, cijena će biti smanjena"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Može izgoriti"
 
@@ -2238,7 +2238,7 @@ msgstr "Otkaži"
 msgid "Cancel as gov"
 msgstr "Raskini u ime vlade"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Otkaži bilo kada"
 
@@ -5269,7 +5269,7 @@ msgstr "Mjesečno:"
 msgid "More"
 msgstr "Više"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Uskoro stiže јoš premium funkciјa!"
 
@@ -6158,7 +6158,7 @@ msgstr "Započni borbu!"
 msgid "Pill"
 msgstr "Pilula"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Posadi drvo pored podatkovnog centra"
 
@@ -7202,7 +7202,7 @@ msgstr "Pošalji novac drugoj državi. Trošak papira: {0}% za države unutar sa
 msgid "Sergeant"
 msgstr "Vodnik"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Postavi <0>opis</0>"
 
@@ -8269,11 +8269,6 @@ msgstr "Poništi izbor svega"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Ukloni državu kao zakletog nepriјatelja"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Do {0} setova opreme"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"

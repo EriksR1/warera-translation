@@ -176,7 +176,7 @@ msgstr "* Схема об’єднання спорядження полягає
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Якщо гравець вже володіє частиною набору, ціну буде зменшено"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
 msgstr "*Може згоріти"
 
@@ -2238,7 +2238,7 @@ msgstr "Скасувати"
 msgid "Cancel as gov"
 msgstr "Скасувати як уряд"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:170
+#: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
 msgstr "Скасуйте будь-коли"
 
@@ -5269,7 +5269,7 @@ msgstr "За місяць:"
 msgid "More"
 msgstr "Більше"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:167
+#: src/components/_user/premium/PremiumFeatureList.tsx:159
 msgid "More premium features coming soon!"
 msgstr "Більше преміум-функцій у майбутньому!"
 
@@ -6158,7 +6158,7 @@ msgstr "Вривайся в бій!"
 msgid "Pill"
 msgstr "Пігулка"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:160
+#: src/components/_user/premium/PremiumFeatureList.tsx:152
 msgid "Plant a tree in the data center"
 msgstr "Посадіть дерево у дата-центрі"
 
@@ -7202,7 +7202,7 @@ msgstr ""
 msgid "Sergeant"
 msgstr "Сержант"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:151
+#: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
 msgstr "Встановити <0>опис</0>"
 
@@ -8269,11 +8269,6 @@ msgstr "Скасувати вибір"
 #: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Прибрати заклятого ворога"
-
-#. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:142
-msgid "Up to {0} equipment sets"
-msgstr "Аж до {0} наборів спорядження"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Upcoming Tournament"
