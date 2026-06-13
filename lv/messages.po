@@ -2281,7 +2281,7 @@ msgstr "Valdībā nevar būt viceprezidents vai ministri."
 
 #: src/components/_political/party/party.frontConfig.tsx:426
 msgid "Cannot have any treaty (sworn enemy, defensive pact or alliance)."
-msgstr "Valstij nevar būt nekādu līgumu (zvērēts ienaidnieks, aizsardzības pakts vai alianse)."
+msgstr "Valstij nevar būt nekādu līgumu (zvērētā ienaidnieka, aizsardzības paktu vai alianšu)."
 
 #: src/components/_political/party/party.frontConfig.tsx:67
 msgid "Cannot have sworn enemies."
