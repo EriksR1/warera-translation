@@ -1693,11 +1693,11 @@ msgstr ""
 msgid "Are you sure you want to promote this member to commander?"
 msgstr ""
 
-#: src/pages/market/index.tsx:174
+#: src/pages/market/index.tsx:193
 msgid "Are you sure you want to remove all buy orders?"
 msgstr ""
 
-#: src/pages/market/index.tsx:236
+#: src/pages/market/index.tsx:256
 msgid "Are you sure you want to remove all sell orders?"
 msgstr ""
 
@@ -2202,7 +2202,7 @@ msgid "Buy Items"
 msgstr ""
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:135
+#: src/pages/market/index.tsx:155
 msgid "Buy orders"
 msgstr ""
 
@@ -3589,7 +3589,7 @@ msgstr "کارجوئی"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/pages/market/index.tsx:78
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:61
 msgid "Equipment"
@@ -3599,7 +3599,7 @@ msgstr ""
 msgid "Equipment:"
 msgstr ""
 
-#: src/components/_economy/market/MarketHeader.tsx:26
+#: src/components/_economy/market/MarketHeader.tsx:19
 msgid "Equipments"
 msgstr ""
 
@@ -4482,7 +4482,7 @@ msgstr ""
 #: src/components/_user/user/UserHeader.tsx:159
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/pages/market/index.tsx:56
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4566,11 +4566,11 @@ msgstr "نوکری بازار"
 msgid "Job offer"
 msgstr ""
 
-#: src/pages/market/index.tsx:77
+#: src/pages/market/index.tsx:84
 msgid "Job offers"
 msgstr ""
 
-#: src/components/_economy/market/MarketHeader.tsx:32
+#: src/components/_economy/market/MarketHeader.tsx:25
 msgid "Jobs"
 msgstr "نوکریاں"
 
@@ -4995,7 +4995,7 @@ msgstr ""
 msgid "Map Accent"
 msgstr ""
 
-#: src/components/_economy/market/MarketHeader.tsx:44
+#: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
 #: src/pages/party/[partyId]/account.tsx:24
@@ -5747,7 +5747,7 @@ msgid "No sworn enemy"
 msgstr ""
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:127
+#: src/pages/market/index.tsx:147
 msgid "No trading orders"
 msgstr ""
 
@@ -5969,7 +5969,7 @@ msgstr "احکام"
 msgid "Orders & actions"
 msgstr "احکام و اعمال"
 
-#: src/pages/market/index.tsx:122
+#: src/pages/market/index.tsx:142
 msgid "Orders cancelled"
 msgstr "فرمائشیں منسوخ ہو گئیں"
 
@@ -6772,8 +6772,8 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr ""
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:197
+#: src/pages/market/index.tsx:260
 msgid "Remove all"
 msgstr ""
 
@@ -7192,7 +7192,7 @@ msgid "Sell Items"
 msgstr ""
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:187
+#: src/pages/market/index.tsx:206
 msgid "Sell orders"
 msgstr "فرمائشیں بیچ دیں"
 
@@ -7200,7 +7200,7 @@ msgstr "فرمائشیں بیچ دیں"
 msgid "Sell price:"
 msgstr ""
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "sells"
 msgstr ""
 
@@ -8085,8 +8085,8 @@ msgstr "کل"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:139
-#: src/pages/market/index.tsx:191
+#: src/pages/market/index.tsx:159
+#: src/pages/market/index.tsx:210
 msgid "Total"
 msgstr "کل"
 
@@ -8154,12 +8154,8 @@ msgstr ""
 msgid "Tournament Won!"
 msgstr ""
 
-#: src/components/_economy/market/MarketHeader.tsx:20
-msgid "Trade"
-msgstr "بیوپار"
-
 #: src/components/_economy/transaction/TransactionList.tsx:71
-#: src/pages/market/index.tsx:56
+#: src/pages/market/index.tsx:63
 msgid "Trading"
 msgstr "بیوپاری"
 
@@ -8176,7 +8172,7 @@ msgid "Transac."
 msgstr "سودا"
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83
+#: src/pages/market/index.tsx:90
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "سودے"
@@ -8640,7 +8636,7 @@ msgstr "لیول {0} کا انتظار"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "مزدوری میں گھٹائی کا کارکن کا قبول یا مسترد کرنے کا انتظار۔ آپ مزدوری تب تک نہیں بدل سکتے جب تک وہ جواب نہیں دیتے۔"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "wants"
 msgstr "چاہتا ہے"
 
@@ -9276,7 +9272,7 @@ msgstr ""
 msgid "Your current job"
 msgstr "آپ کی حالی نوکری"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
 msgid "Your current order"
 msgstr "آپ کی حالی فرمائش"
 
@@ -9341,7 +9337,7 @@ msgstr ""
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "بولی لگانے کے لیے آپ کے عسکری دستے کے پاس قبولی فیس کے لیے پورے پیسے ہونے چاہئیں۔ ادائیگی صرف تب ہی کٹی جائی گی، اگر آپ جیت جاتے ہیں، اور معاہدے کی تکمیلی پر رقم واپس کر دی جائے گی۔"
 
-#: src/components/_economy/market/MarketHeader.tsx:14
+#: src/components/_economy/market/MarketHeader.tsx:13
 msgid "Your offers"
 msgstr "آپ کی بولیاں"
 

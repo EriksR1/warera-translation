@@ -1693,11 +1693,11 @@ msgstr "Vai esi pārliecināts, ka gribi pieņemt šo izsoles piedāvājumu?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Vai esi pārliecināts, ka vēlies paaugstināt par komandieri šo biedru?"
 
-#: src/pages/market/index.tsx:174
+#: src/pages/market/index.tsx:193
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Vai esi pārliecināts, ka gribi atcelt visus pirkšanas rīkojumus?"
 
-#: src/pages/market/index.tsx:236
+#: src/pages/market/index.tsx:256
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Vai esi pārliecināts, ka gribi atcelt visus pārdošanas rīkojumus?"
 
@@ -2202,7 +2202,7 @@ msgid "Buy Items"
 msgstr "Pirkt Preces"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:135
+#: src/pages/market/index.tsx:155
 msgid "Buy orders"
 msgstr "Pirkšanas rīkojumi"
 
@@ -3589,7 +3589,7 @@ msgstr "Uzņēmējdarbība"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/pages/market/index.tsx:78
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:61
 msgid "Equipment"
@@ -3599,7 +3599,7 @@ msgstr "Ekipējums"
 msgid "Equipment:"
 msgstr "Ekipējums:"
 
-#: src/components/_economy/market/MarketHeader.tsx:26
+#: src/components/_economy/market/MarketHeader.tsx:19
 msgid "Equipments"
 msgstr "Ekipējums"
 
@@ -4482,7 +4482,7 @@ msgstr ""
 #: src/components/_user/user/UserHeader.tsx:159
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/pages/market/index.tsx:56
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4566,11 +4566,11 @@ msgstr "Darba tirgus"
 msgid "Job offer"
 msgstr "Darba piedāvājums"
 
-#: src/pages/market/index.tsx:77
+#: src/pages/market/index.tsx:84
 msgid "Job offers"
 msgstr "Darba piedāvājumi"
 
-#: src/components/_economy/market/MarketHeader.tsx:32
+#: src/components/_economy/market/MarketHeader.tsx:25
 msgid "Jobs"
 msgstr "Darbs"
 
@@ -4995,7 +4995,7 @@ msgstr ""
 msgid "Map Accent"
 msgstr "Krāsas Tonis"
 
-#: src/components/_economy/market/MarketHeader.tsx:44
+#: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
 #: src/pages/party/[partyId]/account.tsx:24
@@ -5747,7 +5747,7 @@ msgid "No sworn enemy"
 msgstr "Nav zvērētā ienaidnieka"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:127
+#: src/pages/market/index.tsx:147
 msgid "No trading orders"
 msgstr "Nav tirgus rīkojumu"
 
@@ -5969,7 +5969,7 @@ msgstr "Rīkojumi"
 msgid "Orders & actions"
 msgstr "Rīkojumi un darbības"
 
-#: src/pages/market/index.tsx:122
+#: src/pages/market/index.tsx:142
 msgid "Orders cancelled"
 msgstr "Rīkojumi atcelti"
 
@@ -6772,8 +6772,8 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr "Atlaist biedru no partijas padomes"
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:197
+#: src/pages/market/index.tsx:260
 msgid "Remove all"
 msgstr "Atcelt visus"
 
@@ -7192,7 +7192,7 @@ msgid "Sell Items"
 msgstr "Pārdot preces"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:187
+#: src/pages/market/index.tsx:206
 msgid "Sell orders"
 msgstr "Pārdošanas rīkojumi"
 
@@ -7200,7 +7200,7 @@ msgstr "Pārdošanas rīkojumi"
 msgid "Sell price:"
 msgstr "Pārdošanas cena:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "sells"
 msgstr "pārdod"
 
@@ -8085,8 +8085,8 @@ msgstr "kopā"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:139
-#: src/pages/market/index.tsx:191
+#: src/pages/market/index.tsx:159
+#: src/pages/market/index.tsx:210
 msgid "Total"
 msgstr "Kopā"
 
@@ -8154,12 +8154,8 @@ msgstr "Turnīrs sākās"
 msgid "Tournament Won!"
 msgstr "Turnīrs uzvarēts!"
 
-#: src/components/_economy/market/MarketHeader.tsx:20
-msgid "Trade"
-msgstr "Tirgus"
-
 #: src/components/_economy/transaction/TransactionList.tsx:71
-#: src/pages/market/index.tsx:56
+#: src/pages/market/index.tsx:63
 msgid "Trading"
 msgstr "Tirgus"
 
@@ -8176,7 +8172,7 @@ msgid "Transac."
 msgstr "Darījumi"
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83
+#: src/pages/market/index.tsx:90
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Darījumi"
@@ -8640,7 +8636,7 @@ msgstr "Gaidām {0}. līmeņa sasniegšanu"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Gaidām, kad strādnieks apstiprinās vai noraidīs algas samazināšanu. Tu nevari mainīt algu, kamēr viņš nav atbildējis."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "wants"
 msgstr "pērk"
 
@@ -9276,7 +9272,7 @@ msgstr "Tava valsts uzsāka sacelšanos <0/> pret <1/>"
 msgid "Your current job"
 msgstr "Tava darba vieta"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
 msgid "Your current order"
 msgstr "Tavs pašreizējais sludinājums"
 
@@ -9341,7 +9337,7 @@ msgstr ""
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "Tavai MV jābūt pietiekoši naudas, lai segtu iemaksu izsolē. Maksājums tiek atskaitīts tikai ja tu uzvari, un tiek atgriezts pēc līguma izpildīšanas."
 
-#: src/components/_economy/market/MarketHeader.tsx:14
+#: src/components/_economy/market/MarketHeader.tsx:13
 msgid "Your offers"
 msgstr "Tavi sludinājumi"
 

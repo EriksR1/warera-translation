@@ -1694,11 +1694,11 @@ msgstr ""
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Oletko varma, että haluat ylentää tämän jäsenen komentajaksi?"
 
-#: src/pages/market/index.tsx:174
+#: src/pages/market/index.tsx:193
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Haluatko varmasti poistaa kaikki ostotilaukset?"
 
-#: src/pages/market/index.tsx:236
+#: src/pages/market/index.tsx:256
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Haluatko varmasti poistaa kaikki myyntitilaukset?"
 
@@ -2203,7 +2203,7 @@ msgid "Buy Items"
 msgstr "Osta kohteita"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:135
+#: src/pages/market/index.tsx:155
 msgid "Buy orders"
 msgstr "Osta tilauksia"
 
@@ -3590,7 +3590,7 @@ msgstr "Yrittäjyys"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/pages/market/index.tsx:78
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:61
 msgid "Equipment"
@@ -3600,7 +3600,7 @@ msgstr "Laitteet"
 msgid "Equipment:"
 msgstr "Laitteet:"
 
-#: src/components/_economy/market/MarketHeader.tsx:26
+#: src/components/_economy/market/MarketHeader.tsx:19
 msgid "Equipments"
 msgstr "Varusteet"
 
@@ -4483,7 +4483,7 @@ msgstr ""
 #: src/components/_user/user/UserHeader.tsx:159
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/pages/market/index.tsx:56
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4567,11 +4567,11 @@ msgstr "Työmarkkinat"
 msgid "Job offer"
 msgstr "Työtarjous"
 
-#: src/pages/market/index.tsx:77
+#: src/pages/market/index.tsx:84
 msgid "Job offers"
 msgstr "Työtarjouksia"
 
-#: src/components/_economy/market/MarketHeader.tsx:32
+#: src/components/_economy/market/MarketHeader.tsx:25
 msgid "Jobs"
 msgstr "Työpaikat"
 
@@ -4996,7 +4996,7 @@ msgstr ""
 msgid "Map Accent"
 msgstr "Kartta Accent"
 
-#: src/components/_economy/market/MarketHeader.tsx:44
+#: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
 #: src/pages/party/[partyId]/account.tsx:24
@@ -5748,7 +5748,7 @@ msgid "No sworn enemy"
 msgstr "Ei vannottua vihollista"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:127
+#: src/pages/market/index.tsx:147
 msgid "No trading orders"
 msgstr "Ei kaupankäyntimääräyksiä"
 
@@ -5970,7 +5970,7 @@ msgstr "Tilaukset"
 msgid "Orders & actions"
 msgstr "Tilaukset ja toimet"
 
-#: src/pages/market/index.tsx:122
+#: src/pages/market/index.tsx:142
 msgid "Orders cancelled"
 msgstr "Tilaukset peruttu"
 
@@ -6773,8 +6773,8 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr "Erota jäsen puoluehallituksesta"
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:197
+#: src/pages/market/index.tsx:260
 msgid "Remove all"
 msgstr "Poista kaikki"
 
@@ -7193,7 +7193,7 @@ msgid "Sell Items"
 msgstr "Myy kohteita"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:187
+#: src/pages/market/index.tsx:206
 msgid "Sell orders"
 msgstr "Myyntitilaukset"
 
@@ -7201,7 +7201,7 @@ msgstr "Myyntitilaukset"
 msgid "Sell price:"
 msgstr "Myyntihinta:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "sells"
 msgstr "myy"
 
@@ -8086,8 +8086,8 @@ msgstr "kokonais-"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:139
-#: src/pages/market/index.tsx:191
+#: src/pages/market/index.tsx:159
+#: src/pages/market/index.tsx:210
 msgid "Total"
 msgstr "Kokonais"
 
@@ -8155,12 +8155,8 @@ msgstr "Turnaus alkanut"
 msgid "Tournament Won!"
 msgstr "Turnaus voitettu!"
 
-#: src/components/_economy/market/MarketHeader.tsx:20
-msgid "Trade"
-msgstr "Kauppa"
-
 #: src/components/_economy/transaction/TransactionList.tsx:71
-#: src/pages/market/index.tsx:56
+#: src/pages/market/index.tsx:63
 msgid "Trading"
 msgstr "Kaupankäynti"
 
@@ -8177,7 +8173,7 @@ msgid "Transac."
 msgstr "Tapaht."
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83
+#: src/pages/market/index.tsx:90
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Tapahtumat"
@@ -8641,7 +8637,7 @@ msgstr "Odotetaan tasoa {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Odottaa, että työntekijä hyväksyy tai hylkää palkanleikkauksen. Et voi muuttaa palkkaa ennen kuin he vastaavat."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "wants"
 msgstr "haluaa"
 
@@ -9277,7 +9273,7 @@ msgstr "Maasi aloitti kapinan <0/> <1/>"
 msgid "Your current job"
 msgstr "Nykyinen työsi"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
 msgid "Your current order"
 msgstr "Nykyinen tilauksesi"
 
@@ -9342,7 +9338,7 @@ msgstr ""
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr ""
 
-#: src/components/_economy/market/MarketHeader.tsx:14
+#: src/components/_economy/market/MarketHeader.tsx:13
 msgid "Your offers"
 msgstr "Sinun tarjoukset"
 

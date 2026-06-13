@@ -1693,11 +1693,11 @@ msgstr ""
 msgid "Are you sure you want to promote this member to commander?"
 msgstr ""
 
-#: src/pages/market/index.tsx:174
+#: src/pages/market/index.tsx:193
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Вы действительно хотите убрать все заявки на покупку?"
 
-#: src/pages/market/index.tsx:236
+#: src/pages/market/index.tsx:256
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Вы действительно хотите убрать все заявки на продажу?"
 
@@ -2202,7 +2202,7 @@ msgid "Buy Items"
 msgstr "Купить предмет"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:135
+#: src/pages/market/index.tsx:155
 msgid "Buy orders"
 msgstr "Заявки на покупку"
 
@@ -3589,7 +3589,7 @@ msgstr "Предпринимательство"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/pages/market/index.tsx:78
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:61
 msgid "Equipment"
@@ -3599,7 +3599,7 @@ msgstr "Экипировка"
 msgid "Equipment:"
 msgstr ""
 
-#: src/components/_economy/market/MarketHeader.tsx:26
+#: src/components/_economy/market/MarketHeader.tsx:19
 msgid "Equipments"
 msgstr "Экипировка"
 
@@ -4482,7 +4482,7 @@ msgstr ""
 #: src/components/_user/user/UserHeader.tsx:159
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/pages/market/index.tsx:56
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4566,11 +4566,11 @@ msgstr "Рынок труда"
 msgid "Job offer"
 msgstr "Предложение работы"
 
-#: src/pages/market/index.tsx:77
+#: src/pages/market/index.tsx:84
 msgid "Job offers"
 msgstr "Предложения работы"
 
-#: src/components/_economy/market/MarketHeader.tsx:32
+#: src/components/_economy/market/MarketHeader.tsx:25
 msgid "Jobs"
 msgstr "Работы"
 
@@ -4995,7 +4995,7 @@ msgstr ""
 msgid "Map Accent"
 msgstr "Оттенок на карте"
 
-#: src/components/_economy/market/MarketHeader.tsx:44
+#: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
 #: src/pages/party/[partyId]/account.tsx:24
@@ -5747,7 +5747,7 @@ msgid "No sworn enemy"
 msgstr "Нет заклятых врагов"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:127
+#: src/pages/market/index.tsx:147
 msgid "No trading orders"
 msgstr "Нет торговых заявок"
 
@@ -5969,7 +5969,7 @@ msgstr "Приказы"
 msgid "Orders & actions"
 msgstr ""
 
-#: src/pages/market/index.tsx:122
+#: src/pages/market/index.tsx:142
 msgid "Orders cancelled"
 msgstr "Приказы отменены"
 
@@ -6772,8 +6772,8 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr "Исключить из совета партии"
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:197
+#: src/pages/market/index.tsx:260
 msgid "Remove all"
 msgstr "Удалить всё"
 
@@ -7192,7 +7192,7 @@ msgid "Sell Items"
 msgstr "Продать предметы"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:187
+#: src/pages/market/index.tsx:206
 msgid "Sell orders"
 msgstr "Заявки на продажу"
 
@@ -7200,7 +7200,7 @@ msgstr "Заявки на продажу"
 msgid "Sell price:"
 msgstr "Рыночная цена:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "sells"
 msgstr "продает"
 
@@ -8085,8 +8085,8 @@ msgstr "всего"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:139
-#: src/pages/market/index.tsx:191
+#: src/pages/market/index.tsx:159
+#: src/pages/market/index.tsx:210
 msgid "Total"
 msgstr "Всего"
 
@@ -8154,12 +8154,8 @@ msgstr "Турнир начался"
 msgid "Tournament Won!"
 msgstr "Турнир выигран!"
 
-#: src/components/_economy/market/MarketHeader.tsx:20
-msgid "Trade"
-msgstr "Торговля"
-
 #: src/components/_economy/transaction/TransactionList.tsx:71
-#: src/pages/market/index.tsx:56
+#: src/pages/market/index.tsx:63
 msgid "Trading"
 msgstr "Торговля"
 
@@ -8176,7 +8172,7 @@ msgid "Transac."
 msgstr "Транзак."
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83
+#: src/pages/market/index.tsx:90
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Транзакции"
@@ -8640,7 +8636,7 @@ msgstr "Ожидание уровня {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Ожидайте, пока работник примет или отклонит снижение зарплаты. Вы не можете изменить зарплату, пока он не ответит."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "wants"
 msgstr "покупает"
 
@@ -9276,7 +9272,7 @@ msgstr "Ваша страна начала восстание в <0/> проти
 msgid "Your current job"
 msgstr "Ваша текущая работа"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
 msgid "Your current order"
 msgstr "Ваш текущий ордер"
 
@@ -9341,7 +9337,7 @@ msgstr ""
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr ""
 
-#: src/components/_economy/market/MarketHeader.tsx:14
+#: src/components/_economy/market/MarketHeader.tsx:13
 msgid "Your offers"
 msgstr "Ваши лоты"
 

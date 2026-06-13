@@ -1693,11 +1693,11 @@ msgstr "Möchtest du dieses Gebot wirklich abgeben?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Bist du sicher, dass du dieses Mitglied zum Kommandeur befördern möchtest?"
 
-#: src/pages/market/index.tsx:174
+#: src/pages/market/index.tsx:193
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Sind Sie sicher, dass Sie alle Kaufaufträge entfernen wollen?"
 
-#: src/pages/market/index.tsx:236
+#: src/pages/market/index.tsx:256
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Sind Sie sicher, dass Sie alle Verkaufsaufträge entfernen wollen?"
 
@@ -2202,7 +2202,7 @@ msgid "Buy Items"
 msgstr "Gegenstände kaufen"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:135
+#: src/pages/market/index.tsx:155
 msgid "Buy orders"
 msgstr "Kaufaufträge"
 
@@ -3589,7 +3589,7 @@ msgstr "Unternehmertum"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/pages/market/index.tsx:78
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:61
 msgid "Equipment"
@@ -3599,7 +3599,7 @@ msgstr "Ausrüstung"
 msgid "Equipment:"
 msgstr "Ausrüstung:"
 
-#: src/components/_economy/market/MarketHeader.tsx:26
+#: src/components/_economy/market/MarketHeader.tsx:19
 msgid "Equipments"
 msgstr "Ausrüstungsgegenstände"
 
@@ -4482,7 +4482,7 @@ msgstr "Absichtliche oder wiederholte Verstöße gegen diese Regel führen zu ei
 #: src/components/_user/user/UserHeader.tsx:159
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/pages/market/index.tsx:56
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4566,11 +4566,11 @@ msgstr "Arbeitsmarkt"
 msgid "Job offer"
 msgstr "Stellenangebot"
 
-#: src/pages/market/index.tsx:77
+#: src/pages/market/index.tsx:84
 msgid "Job offers"
 msgstr "Stellenangebote"
 
-#: src/components/_economy/market/MarketHeader.tsx:32
+#: src/components/_economy/market/MarketHeader.tsx:25
 msgid "Jobs"
 msgstr "Jobs"
 
@@ -4995,7 +4995,7 @@ msgstr "Karte"
 msgid "Map Accent"
 msgstr "Karten-Akzent"
 
-#: src/components/_economy/market/MarketHeader.tsx:44
+#: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
 #: src/pages/party/[partyId]/account.tsx:24
@@ -5747,7 +5747,7 @@ msgid "No sworn enemy"
 msgstr "Kein Erzfeind"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:127
+#: src/pages/market/index.tsx:147
 msgid "No trading orders"
 msgstr "Keine Handelsaufträge"
 
@@ -5969,7 +5969,7 @@ msgstr "Befehle"
 msgid "Orders & actions"
 msgstr "Befehle & Aktionen"
 
-#: src/pages/market/index.tsx:122
+#: src/pages/market/index.tsx:142
 msgid "Orders cancelled"
 msgstr "Aufträge abgebrochen"
 
@@ -6772,8 +6772,8 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr "Ein Mitglied aus dem Parteirat entfernen"
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:197
+#: src/pages/market/index.tsx:260
 msgid "Remove all"
 msgstr "Alle entfernen"
 
@@ -7192,7 +7192,7 @@ msgid "Sell Items"
 msgstr "Gegenstände verkaufen"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:187
+#: src/pages/market/index.tsx:206
 msgid "Sell orders"
 msgstr "Verkaufsaufträge"
 
@@ -7200,7 +7200,7 @@ msgstr "Verkaufsaufträge"
 msgid "Sell price:"
 msgstr "Verkaufspreis:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "sells"
 msgstr "verkauft"
 
@@ -8085,8 +8085,8 @@ msgstr "Gesamt"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:139
-#: src/pages/market/index.tsx:191
+#: src/pages/market/index.tsx:159
+#: src/pages/market/index.tsx:210
 msgid "Total"
 msgstr "Gesamt"
 
@@ -8154,12 +8154,8 @@ msgstr "Turnier gestartet"
 msgid "Tournament Won!"
 msgstr "Turnier gewonnen!"
 
-#: src/components/_economy/market/MarketHeader.tsx:20
-msgid "Trade"
-msgstr "Handeln"
-
 #: src/components/_economy/transaction/TransactionList.tsx:71
-#: src/pages/market/index.tsx:56
+#: src/pages/market/index.tsx:63
 msgid "Trading"
 msgstr "Handel"
 
@@ -8176,7 +8172,7 @@ msgid "Transac."
 msgstr "Transak."
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83
+#: src/pages/market/index.tsx:90
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Transaktionen"
@@ -8640,7 +8636,7 @@ msgstr "Warte auf Level {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Warte darauf, dass der Arbeiter die Lohnkürzung akzeptiert oder ablehnt. Du kannst den Lohn erst ändern, wenn er geantwortet hat."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "wants"
 msgstr "will"
 
@@ -9276,7 +9272,7 @@ msgstr "Dein Land hat eine Revolte in <0/> gegen <1/> gestartet."
 msgid "Your current job"
 msgstr "Dein aktueller Job"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
 msgid "Your current order"
 msgstr "Dein aktueller Auftrag"
 
@@ -9341,7 +9337,7 @@ msgstr "Deine ME hat <0/> Ruf und kann nicht auf Söldnerverträge bieten. Bezah
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "Deine ME braucht genug Geld für die Kaution, um bieten zu können. Abgezogen wird erst, wenn du gewinnst, und bei Vertragserfüllung bekommst du sie zurück."
 
-#: src/components/_economy/market/MarketHeader.tsx:14
+#: src/components/_economy/market/MarketHeader.tsx:13
 msgid "Your offers"
 msgstr "Deine Angebote"
 
