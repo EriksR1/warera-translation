@@ -9288,7 +9288,7 @@ msgstr "Tavas militārās vienības nosaukums"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
-msgstr "Tavai MV ir <0/> reputācija un tā nevar piedalīties izsolē uz algotņu līgumiem. Samaksā, lai atpirktu reputāciju (reizi dienā)."
+msgstr "Tavas MV reputācija ir <0/> un tā nevar piedalīties algotņu līgumu izsolē. Samaksā, lai atpirktu reputāciju (reizi dienā)."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
