@@ -2375,7 +2375,7 @@ msgstr "Mainīt nodokli"
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:158
 msgid "Change the alliance color scheme to <0>{0}</0> immediately on acceptance."
-msgstr "Pamainīt alianses krāsu shēmu <0>{0}</0> nekavējoties pēc pieņemšanas."
+msgstr "Mainīt alianses krāsu shēmu uz <0>{0}</0>."
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:142
 msgid "Change the color scheme of the alliance."
@@ -6721,7 +6721,7 @@ msgstr "Atlaist <0/> no kongresa neaktivitātes dēļ"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:82
 msgid "Remove <0/> from the alliance immediately on acceptance."
-msgstr "Izraidīt <0/> no alianses nekavējoties pēc pieņemšanas."
+msgstr "Izraidīt <0/> no alianses."
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:38
 msgid "Remove <0/> from the party council"
@@ -6801,7 +6801,7 @@ msgstr "Pārsaukt uzņēmumu"
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:133
 msgid "Rename the alliance to \"{0}\" immediately on acceptance."
-msgstr "Pārsaukt aliansi uz \"{0}\" nekavējoties pēc pieņemšanas."
+msgstr "Pārdēvēt aliansi uz \"{0}\"."
 
 #: src/components/_political/government/Government.tsx:244
 msgid "Replace"
