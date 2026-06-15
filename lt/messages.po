@@ -742,7 +742,7 @@ msgstr "<0>{ethicDepositBonus}</0> iš <1/> agrarinės etikos telkinių bonuso."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:64
 msgid "<0>{ethicSpecializationBonus}</0> from <1/> industrialist ethics specialization bonus."
-msgstr "<0>{ethicSpecializationBonus}</0> iš pramonininko etikos specializacijos bonuso."
+msgstr "<0>{ethicSpecializationBonus}</0> iš <1/> pramonininko etikos specializacijos bonuso."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:53
 msgid "<0>{strategicBonus}</0> from <1/> strategic resources production bonus."
@@ -792,7 +792,7 @@ msgstr "<0>Kas <1/> bendros abiejų pusių padarytos žalos į mūšio fondą pr
 #. placeholder {2}: 10
 #: src/components/_user/worker/WorkerItem.tsx:122
 msgid "<0>Everyday passed working for same employer, the fidelity bonus increases by <1>{0}</1>.</0><2>It increase by <3>{1}</3> the production bonus until <4>{2}</4>.</2><5>This bonus is applied after work. So it is not counted in wage.</5>"
-msgstr "<0>Kiekvieną dieną dirbant tam pačiam darbdaviui, lojalumo bonusas padidėja <1>{0}</1>.</0><2>Ji padidina gamybos bonusą <3>{1}</3> iki <4>{2}</4>.</2><5>Šis bonusas pritaikoma po darbo, todėl į atlyginimą neįskaičiuojama.</5>"
+msgstr "<0>Kiekvieną dieną dirbant tam pačiam darbdaviui, lojalumo bonusas padidėja <1>{0}</1>.</0><2>Ji padidina gamybos bonusą <3>{1}</3> iki <4>{2}</4>.</2><5>Šis bonusas pritaikomas po darbo, todėl į atlyginimą neįskaičiuojama.</5>"
 
 #: src/components/_economy/company/CompanyProduce.tsx:81
 msgid "<0>Filled with <1>Production Points</1> by employees working and from the automated engine.</0><2>Only the company owner can spend it to produce items.</2>"
