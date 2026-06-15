@@ -493,7 +493,7 @@ msgstr "<0/> pasiekė {0} lygį!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:560
 msgid "<0/> referred you to the game."
-msgstr "<0/> pakvietė jus į žaidimą."
+msgstr "<0/> pakvietė tave į žaidimą."
 
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
 #: src/components/_user/notification/notification.frontConfig.tsx:866
@@ -4064,7 +4064,7 @@ msgstr "Dalinimo laimėtojas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2119
 msgid "Giveaway Won!"
-msgstr "Laimėjote dalybas!"
+msgstr "Laimėjai dalybas!"
 
 #. placeholder {0}: levelConfig.stats.attackBonus
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:97
@@ -5628,7 +5628,7 @@ msgstr "Aljanso įstatymų dar nėra"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:231
 msgid "No API tokens yet. Create one to get started."
-msgstr "API prieigos raktų dar nėra. Sukurki vieną, kad galėtum pradėti."
+msgstr "API prieigos raktų dar nėra. Sukurk vieną, kad galėtum pradėti."
 
 #: src/components/_user/auth/ConnectFromModal.tsx:140
 msgid "No authorization code provided."
@@ -7399,7 +7399,7 @@ msgstr "Įgūdžiai išsaugoti!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1952
 msgid "Skin gift received"
-msgstr "Gavote skiną dovanų"
+msgstr "Gavai skiną dovanų"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1950
 msgid "Skin gift sent"
@@ -7773,7 +7773,7 @@ msgstr "Čia tai epika!"
 
 #: src/components/_user/user/skills.frontConfig.tsx:98
 msgid "The <0>Production Points</0> you generate each time you work"
-msgstr "Kiek <0>gamybos taškų</0> gaunate kiekvieną kartą dirbdami"
+msgstr "Kiek <0>gamybos taškų</0> gauni kiekvieną kartą dirbdamas"
 
 #: src/components/_user/user/skills.frontConfig.tsx:40
 msgid "The base value for <0>Damages</0> calculation."
@@ -8138,7 +8138,7 @@ msgstr "Turnyras sukurtas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2059
 msgid "Tournament Eliminated"
-msgstr "Iškritote iš turnyro"
+msgstr "Pašalinta iš turnyro"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2057
 msgid "Tournament Ended"
@@ -8158,7 +8158,7 @@ msgstr "Turnyras prasidėjo"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2050
 msgid "Tournament Won!"
-msgstr "Laimėjote turnyrą!"
+msgstr "Laimėtas turnyras!"
 
 #: src/components/_economy/transaction/TransactionList.tsx:71
 #: src/pages/market/index.tsx:63
@@ -8830,7 +8830,7 @@ msgstr "Blogiausias"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
-msgstr "Oho, sveikinimai! Beje, gal svarstėte įsigyti \"Premium\"?"
+msgstr "Oho, sveikinimai! Beje, gal svarstei įsigyti \"Premium\"?"
 
 #: src/components/_political/law/LawFormModal.tsx:170
 #: src/components/_political/law/LawList.tsx:52
@@ -8909,7 +8909,7 @@ msgstr "Nupirkai kūrėjui kavos <3"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:593
 msgid "You bought items."
-msgstr "Nusipirkote daiktų."
+msgstr "Nusipirkai daiktų."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:77
 msgid "You broke the rng"
@@ -8918,7 +8918,7 @@ msgstr "Sugadinai RNG"
 #. placeholder {0}: staticGameConfig.referral.levelNeededForBadge
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:172
 msgid "You brought 10 babies to the world (>= lvl {0})"
-msgstr "Į pasaulį atvedėte 10 kūdikių (>= {0} lygis)"
+msgstr "Į pasaulį atvedėi 10 kūdikių (>= {0} lygis)"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:211
 msgid "You can dismantle items from your inventory by selecting an item."
@@ -9021,7 +9021,7 @@ msgstr "Padėjai kūrėjui rasti klaidą, ačiū <3"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:211
 msgid "You helped translate the game into another language"
-msgstr "Padėjote išversti žaidimą į kitą kalbą"
+msgstr "Padėjai išversti žaidimą į kitą kalbą"
 
 #. placeholder {0}: staticGameConfig.referral.levelNeededForBadge
 #. placeholder {1}: staticGameConfig.referral.lifeTimeBadgeMoneySharePercent
@@ -9031,11 +9031,11 @@ msgstr "Pakvietei draugą arba spaminei forume. Kai jie pasieks {0} lygį, gausi
 
 #: src/components/_user/worker/WageReductionAlert.tsx:44
 msgid "You left the company."
-msgstr "Išėjote iš įmonės."
+msgstr "Išėjai iš įmonės."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:65
 msgid "You left your job!"
-msgstr "Išėjote iš darbo!"
+msgstr "Išėjai iš darbo!"
 
 #. placeholder {0}: gameConfig.election.candidateMinLevel
 #: src/components/_political/election/Election.tsx:133
@@ -9083,7 +9083,7 @@ msgstr "Gavai grobio daiktą už <0>#{0}</0> vietą <1/>"
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
 #: src/components/_user/notification/notification.frontConfig.tsx:1392
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
-msgstr "Gavote atlygį už {0} {1} <0/>reitingo <1/> pakopoje"
+msgstr "Gavai atlygį už {0} {1} <0/>reitingo <1/> pakopoje"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "You received the skin \"{skinTitle}\"!"
@@ -9178,7 +9178,7 @@ msgstr "Laimėjai MU turnyrą"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:86
 msgid "You worked 100 times"
-msgstr "Dirbote 100 kartų"
+msgstr "Dirbai 100 kartų"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:220
 msgid "You're all set!"
@@ -9391,7 +9391,7 @@ msgstr "Tavo savaitinės misijos buvo atnaujintos! Įvykdyk jas ir gauk apdovano
 
 #: src/components/_user/auth/ConnectFromModal.tsx:227
 msgid "your@email.com"
-msgstr "jusu@email.com"
+msgstr "tavo@email.com"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
