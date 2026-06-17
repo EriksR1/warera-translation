@@ -755,7 +755,7 @@ msgstr "<0>#{key}</0>-й ресурс кожного типу = <1>{value}</1>"
 
 #: src/components/_political/country/CountryHeader.tsx:207
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
-msgstr "<0>Середній розвиток</0> це усереднена значення <1>Початкового розвитку</1> та <2>Поточного розвитку</2>."
+msgstr "<0>Середній розвиток</0> це усереднене значення <1>Початкового розвитку</1> та <2>Поточного розвитку</2>."
 
 #: src/components/_user/user/UserTooltip.tsx:131
 msgid "<0>Buff</0> ends <1/>"
@@ -767,7 +767,7 @@ msgstr ""
 
 #: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
-msgstr ""
+msgstr "<0>Поточний розвиток</0> це сума розвитку усіх <1>регіонів</1> під контролем вашої держави, включно з окупованими землями."
 
 #: src/components/_user/user/UserTooltip.tsx:140
 msgid "<0>Debuff</0> ends <1/>"
@@ -6092,7 +6092,7 @@ msgstr "У <0/> розпочато подання кандидатур на ви
 
 #: src/components/_user/notification/notification.frontConfig.tsx:289
 msgid "Party Council election has ended in <0/>. Check the results!"
-msgstr "У <0/>завершились вибори до партійної ради. Перегляньте результати!"
+msgstr "У <0/> завершились вибори до партійної ради. Перегляньте результати!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:264
 msgid "Party Council election voting is now open in <0/>"
