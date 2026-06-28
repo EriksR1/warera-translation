@@ -5923,7 +5923,7 @@ msgstr "Atidaryti dėžę"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:217
 msgid "Open Cases"
-msgstr "Atverti bylas"
+msgstr "Atidaryti dėžes"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:372
 msgid "Open Chat"
@@ -8010,7 +8010,7 @@ msgstr "Paremk <0>{count}</0> straipsnius"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:310
 msgid "Tip Article"
-msgstr "Patarimų straipsnis"
+msgstr "Paremti straipsnį"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -8294,7 +8294,7 @@ msgstr "Atrakintas paketas"
 
 #: src/components/_user/user/UserHeader.tsx:418
 msgid "Unmuted <0/>"
-msgstr "Attildytas <0/>"
+msgstr "Atitildytas <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -8974,7 +8974,7 @@ msgstr "Tavo prašymas bus automatiškai patvirtintas, nes šalies gyventojų sk
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:93
 msgid "You have a case!"
-msgstr "Gavai bylą!"
+msgstr "Gavai dėžę!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1136
 msgid "You have been demoted from commander in <0/> by <1/>"
