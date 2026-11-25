@@ -1986,7 +1986,7 @@ msgstr ""
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:428
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:668
 msgid "{who}: gains <0/>"
-msgstr "{who}: iegūšt <0/>"
+msgstr "{who}: iegūst <0/>"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:423
 msgid "{who}: gains a random <0>bad trait</0>"
@@ -4867,31 +4867,31 @@ msgstr "Futbolbumba"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3623
 msgid "Ban head rubbing"
-msgstr "Aizliedz galvu glāstīšanu"
+msgstr "Aizliegt galvu glāstīšanu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1076
 msgid "Ban impressions"
-msgstr "Aizliedz atdarināšanu"
+msgstr "Aizliegt atdarināšanu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1385
 msgid "Ban politics at work"
-msgstr "Aizliedz apspriest politiku darbā"
+msgstr "Aizliegt apspriest politiku darbā"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2660
 msgid "Ban sandwiches near the machine"
-msgstr "Aizliedz maizītes iekārtas tuvumā"
+msgstr "Aizliegt sviestmaizes iekārtas tuvumā"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1848
 msgid "Ban soup"
-msgstr "Aizliedz zupu"
+msgstr "Aizliegt zupu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3361
 msgid "Ban the club"
-msgstr "Aizliedz klubu"
+msgstr "Aizliegt klubu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2775
 msgid "Ban the ramp"
-msgstr "Aizliedz rampu"
+msgstr "Aizliegt rampu"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:109
 msgid "Band of Brothers"
@@ -5102,7 +5102,7 @@ msgstr "Labāko"
 
 #: src/components/_economy/manager/ManagerBestOfferLine.tsx:37
 msgid "Best position for you"
-msgstr "Labākā pozīcija tev"
+msgstr "Labākā darbavieta tev"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -5272,11 +5272,11 @@ msgstr "Salūzis"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:256
 msgid "Broken: no longer boosts Production"
-msgstr "Salūzis: vairs neuzlabo Ražošanu"
+msgstr "Salūzis: vairs neuzlabo ražošanu"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:259
 msgid "Bronze MU League Champion"
-msgstr "Bronzas MV Līgas Čempions"
+msgstr "Bronzas MV līgas čempions"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:232
 msgid "Browse Packs"
@@ -12983,7 +12983,7 @@ msgstr "Viena izjokošana pāršauj pār strīpu. {name} un {partnerName} tagad 
 
 #: src/components/_political/govType/govType.frontConfig.tsx:69
 msgid "One ruler, fast decisions"
-msgstr "Viens vadītājs, ātri lēmumi"
+msgstr "Viens valdnieks, ātri lēmumi"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:70
 msgid "One step away from legendary..."
@@ -13040,7 +13040,7 @@ msgstr "Tikai pilsoņi var cīnīties"
 
 #: src/components/_social/poll/PollCard.tsx:233
 msgid "Only citizens of <0/> can vote."
-msgstr "Tikai pilsoņi no <0/> var balsot."
+msgstr "Tikai <0/> pilsoņi var balsot."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:465
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:121
@@ -17490,7 +17490,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3791
 msgid "The stapler is in jelly. {name} and {partnerName} are at war, and the pranks are getting bigger."
-msgstr "Skavotājs ir "
+msgstr "Skavotājs ir želejā. {name} un {partnerName} ir karastāvoklī, un izjokošanas kļūs arvien vērienīgākas."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:199
 msgid "The state collects {taxPercent}% of your employees' wages as employee tax."
@@ -17620,7 +17620,7 @@ msgstr "Darbnīcā tagad ir kaķis un visiem ir labāks garastāvoklis"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3919
 msgid "The workshop is a jungle now. Everyone loves it, and nobody can find the stapler."
-msgstr "Darbnīcā ir kā džungļos. Visi ir sajūsma, bet neviens nevar atrast skavotāju."
+msgstr "Darbnīcā ir kā džungļos. Visi ir sajūsmā, bet neviens nevar atrast skavotāju."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:336
 msgid "Their coworkers"
@@ -17632,7 +17632,7 @@ msgstr "Viņu bojājumi neskaitās nevienai valstij."
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:199
 msgid "Their Luck"
-msgstr "Viņa Veiksme"
+msgstr "Viņa veiksme"
 
 #: src/components/_economy/employee/employeeStats.tsx:809
 msgid "Their manager's daily pick: +{happinessBoost} Happiness for {durationHours}h, boosts stack."
@@ -20373,7 +20373,7 @@ msgstr "Tev ir jauni mēneša uzdevumi! Izpildi tos, lai saņemtu atlīdzību."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2038
 msgid "Your MU finished #{rank} in its weekly league."
-msgstr "Tava MV finišēja #{rank} tās iknedēļas līgā."
+msgstr "Tava MV finišēja #{rank} iknedēļas līgā."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:49
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
@@ -20427,7 +20427,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3799
 msgid "Your prank goes too far. Work slows to a crawl while everyone cleans up."
-msgstr "Tava izjokošana pāršauj pār strīpu. Darbs apstājas kamēr visi satīra."
+msgstr "Tava izjokošana pāršauj pār strīpu. Darbs apstājas, kamēr visi satīra."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3797
 msgid "Your prank is the best yet. The whole workshop is in stitches."
@@ -20487,7 +20487,7 @@ msgstr ""
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:296
 msgid "Your unit can’t fight against its own country."
-msgstr "Tava vienība nevar cīnīties pati pret savu valsti"
+msgstr "Tava vienība nevar cīnīties pret savu valsti"
 
 #: src/components/_military/mu/MuTypeSettings.tsx:66
 msgid "Your unit is now a State Army"
@@ -20507,7 +20507,7 @@ msgstr ""
 
 #: src/components/_military/mu/MuTypeSettings.tsx:183
 msgid "Your unit's orders outside tournaments will be removed."
-msgstr "Tavas vienības rīkojumi ārpus turnīriem tiks noņemti."
+msgstr "Tavas vienības rīkojumi ārpus turnīriem tiks atcelti."
 
 #: src/components/_political/election/CongressListElection.tsx:358
 #: src/components/_political/election/Election.tsx:274
