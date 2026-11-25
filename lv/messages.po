@@ -20431,7 +20431,7 @@ msgstr "Tava izjokošana pāršauj pār strīpu. Darbs apstājas kamēr visi sat
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3797
 msgid "Your prank is the best yet. The whole workshop is in stitches."
-msgstr "Tava izjokošana ir vislabākā. Visa darbnīca smejas vēderus turēdami"
+msgstr "Tava izjokošana ir vislabākā. Visa darbnīca smejas, vēderus turēdami"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1202
 msgid "Your premium subscription has been activated!"
